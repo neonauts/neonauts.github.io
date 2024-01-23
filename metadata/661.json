@@ -1,6 +1,6 @@
 {
     "name": "Neonaut #661",
-    "description": "Neonauts is a collection of 1000 astronauts fearlessly exploring the limitless space of the Neon EVM universe",
+    "description": "Neonauts is a collection of 1000 astronauts fearlessly exploring the limitless space of the Neon EVM universe.",
     "external_url": "https://www.neonauts.xyz",
     "image": "https://www.neonauts.xyz/images/661.png",
     "attributes": [
@@ -13,11 +13,11 @@
             "value": "Pink"
         },
         {
-            "trait_type": "Helmet Colors",
+            "trait_type": "Helmet",
             "value": "Teal-White-Pink"
         },
         {
-            "trait_type": "Suit Colors",
+            "trait_type": "Suit",
             "value": "Teal-White-Pink"
         },
         {
