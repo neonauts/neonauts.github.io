@@ -1,1 +1,28 @@
-{"name": "Neonaut #433", "description": "(Coming soon)", "external_url": "https://www.neonauts.xyz", "image": "https://www.neonauts.xyz/images/placeholder.png", "attributes": []}
+{
+    "name": "Neonaut #433",
+    "description": "Neonauts is a collection of 1000 astronauts fearlessly exploring the limitless space of the Neon EVM universe",
+    "external_url": "https://www.neonauts.xyz",
+    "image": "https://www.neonauts.xyz/images/433.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Rabbit"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Helmet Colors",
+            "value": "White-Blue-Red"
+        },
+        {
+            "trait_type": "Suit Colors",
+            "value": "White-Blue-Red"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Jupiter"
+        }
+    ]
+}
